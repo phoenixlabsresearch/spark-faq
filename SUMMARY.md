@@ -14,5 +14,8 @@
 
 ## Additional Documentation
 
-* [Spark Document Hub](https://app.gitbook.com/o/HFFQ0t9vAuVpIhrDPe1F/s/cK0HNjya934Vykf6kdi2/)
-* [Spark Developer Docs](https://app.gitbook.com/o/HFFQ0t9vAuVpIhrDPe1F/s/xsSj7vg2Xg1cvjBCydSB/)
+* [Spark Document Hub](https://docs.sparkprotocol.io/hub/)
+
+***
+
+* [Spark Developer Docs](https://docs.sparkprotocol.io/developers)
