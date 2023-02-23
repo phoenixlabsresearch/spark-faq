@@ -24,7 +24,7 @@ Your funds are allocated in a smart contract. The code of the smart contract is 
 
 ### Address Screening
 
-**Why is my wallet blocked?** We receive blockchain intelligence provided by [TRM Labs](https://www.trmlabs.com/). \*\*\*\* TRM combines on-chain data and real-world investigations to identify financial crime and other prohibited activities. This data blocks wallets from app.sparkprotocol.io that are associated with certain legally prohibited conduct.If you believe your address has been incorrectly flagged, please contact [admin@sparkprotocol.io](mailto:admin@sparkprotocol.io).
+**Why is my wallet blocked?** We receive blockchain intelligence provided by [TRM Labs](https://www.trmlabs.com/). TRM combines on-chain data and real-world investigations to identify financial crime and other prohibited activities. This data blocks wallets from app.sparkprotocol.io that are associated with certain legally prohibited conduct.If you believe your address has been incorrectly flagged, please contact [admin@sparkprotocol.io](mailto:admin@sparkprotocol.io).
 
 **What information is shared with TRM Labs?** Your address is shared with TRM, but no metadata is tracked or shared. The request from the UI is routed to the Spark hosted API, which is used as a proxy endpoint, and the address is passed directly through to the TRM service. Users' IP addresses are not shared with TRM.
 
