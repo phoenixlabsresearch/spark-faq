@@ -20,20 +20,18 @@ Interacting with the protocol requires transactions and so transaction fees for 
 
 ### Where are my supplied funds stored?
 
-Your funds are allocated in a smart contract. The code of the smart contract is public, open source, formally verified and audited by third party auditors. You can withdraw your funds from the pool on-demand or export a tokenised (aTokens) version of your lender position. spTokens can be moved and traded as any other cryptographic asset on Ethereum.
+Your funds are allocated in a smart contract. The code of the smart contract is public, open source, formally verified and audited by third party auditors. You can withdraw your funds from the pool on-demand or export a tokenised (spTokens) version of your lender position. spTokens can be moved and traded as any other cryptographic asset on Ethereum.
 
 ### Address Screening
 
-**Why is my wallet blocked?**
-We receive blockchain intelligence provided by [TRM Labs](https://www.trmlabs.com/). **** TRM combines on-chain data and real-world investigations to identify financial crime and other prohibited activities. This data blocks wallets from app.sparkprotocol.io that are associated with certain legally prohibited conduct.If you believe your address has been incorrectly flagged, please contact [admin@sparkprotocol.io](mailto:admin@sparkprotocol.io).
+**Why is my wallet blocked?** We receive blockchain intelligence provided by [TRM Labs](https://www.trmlabs.com/). \*\*\*\* TRM combines on-chain data and real-world investigations to identify financial crime and other prohibited activities. This data blocks wallets from app.sparkprotocol.io that are associated with certain legally prohibited conduct.If you believe your address has been incorrectly flagged, please contact [admin@sparkprotocol.io](mailto:admin@sparkprotocol.io).
 
-**What information is shared with TRM Labs?**
-Your address is shared with TRM, but no metadata is tracked or shared. The request from the UI is routed to the Spark hosted API, which is used as a proxy endpoint, and the address is passed directly through to the TRM service. Users' IP addresses are not shared with TRM.
+**What information is shared with TRM Labs?** Your address is shared with TRM, but no metadata is tracked or shared. The request from the UI is routed to the Spark hosted API, which is used as a proxy endpoint, and the address is passed directly through to the TRM service. Users' IP addresses are not shared with TRM.
 
 ### Is there any risk?
 
 No platform can be considered entirely risk free. The risks related to the Spark platform are the smart contract risk (risk of a bug within the protocol code) and liquidation risk (risk on the collateral liquidation process). Every possible step has been taken to minimise the risk as much as possible-- the protocol code is public and open source and it has been audited. Additionally, you can find additional security related information in the [security and audits](https://docs.sparkprotocol.io/developers/security-and-audits) sections.
 
-### Mobile App 
+### Mobile App
 
 Be careful, Spark doesn't have any downloadable mobile application available. If you find one, it is a scam. Spark Protocol would not ask for your seed passphrase ever. Spark never advertises on any social media or search engine. If you see any advertisement, those are scams and phishing sites.
