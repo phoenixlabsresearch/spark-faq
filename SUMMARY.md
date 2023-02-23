@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction to Aave](README.md)
+* [Introduction to Spark](README.md)
 * [Supplying & Earning](supplying-and-earning.md)
 * [Borrowing](borrowing.md)
 * [Spark Lend Features](spark-lend-features.md)

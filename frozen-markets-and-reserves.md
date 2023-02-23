@@ -2,7 +2,7 @@
 
 ### How is a reserve or market frozen?
 
-A reserve on the Aave protocol can be frozen by calling the [`setReserveFreeze`](https://github.com/aave/aave-v3-core/blob/ce90d8dabb10679fdd7f6875730d92bca1a6ad99/contracts/protocol/pool/PoolConfigurator.sol#L204) function on the PoolConfigurator contract, which is deployed for each Aave market. This function is callable by addresses with the `RiskAdmin` or `PoolAdmin` role, which is owned by Aave Governance (or Guardian multisig on networks without governance bridge), and can also be granted this role.
+A reserve on the Spark Protocol can be frozen by calling the [`setReserveFreeze`](https://github.com/aave/aave-v3-core/blob/ce90d8dabb10679fdd7f6875730d92bca1a6ad99/contracts/protocol/pool/PoolConfigurator.sol#L204) function on the PoolConfigurator contract, which is deployed for each Spark market. This function is callable by addresses with the `RiskAdmin` or `PoolAdmin` role, which is owned by Maker Governance (or Guardian multisig on networks without governance bridge), and can also be granted this role.
 
 ### What is a frozen reserve?
 
@@ -12,9 +12,9 @@ A reserve is frozen by calling one which does not allow any new supply, borrow, 
 
 Yes, the same process and smart contract function can be used to unfreeze as well if conditions are suitable for reserves to be reinstated for supply and borrow.
 
-## Aave Market Reserve Configurations
+## Spark Market Reserve Configurations
 
-The table below shows which functions are callable depending on the state of the reserve.&#x20;
+The table below shows which functions are callable depending on the state of the reserve.
 
 For example, when a reserve is not frozen or paused, if the reserve is `active`, it is still possible to `supply()` assets.
 

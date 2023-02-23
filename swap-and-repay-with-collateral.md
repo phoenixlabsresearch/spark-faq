@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In Aave V2 you have the ability to swap your deposited assets, even the ones being used as collateral, to another asset. Aave V2 also allows you to repay your debt/loans with your deposited collateral. More information can be found below.&#x20;
+In Spark Lend you have the ability to swap your deposited assets, even the ones being used as collateral, to another asset. Spark Lend also allows you to repay your debt/loans with your deposited collateral. More information can be found below.
 
 ## How do I swap my deposited asset?
 
