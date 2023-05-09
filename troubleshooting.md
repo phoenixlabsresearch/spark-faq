@@ -56,5 +56,5 @@ Alternatively, if your wallet provider doesn't have this option, you can still d
 Here are a couple of guides about the topic for [MEW ](https://kb.myetherwallet.com/en/transactions/checking-or-replacing-a-tx-after-sending/) and [MyCrypto](https://support.mycrypto.com/how-to/sending/checking-or-replacing-a-transaction-after-it-has-been-sent).
 
 {% hint style="info" %}
-If you still have any questions or issues, feel free to reach the Spark team over the official [discord ](https://discord.gg/sqDWzqvdUc).
+If you still have any questions or issues, feel free to reach the Spark team over the official [discord ](https://discord.gg/xztPSuEP).
 {% endhint %}

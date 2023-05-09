@@ -4,7 +4,7 @@
 
 ### What is Spark?
 
-Spark is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion. Please join the [Maker community Discord server](https://discord.gg/sqDWzqvdUc); the Spark team and members of the community look forward to helping you understand and use Spark.
+Spark is a decentralised non-custodial liquidity market protocol where users can participate as suppliers or borrowers. Suppliers provide liquidity to the market to earn a passive income, while borrowers are able to borrow in an overcollateralised (perpetually) or undercollateralised (one-block liquidity) fashion. Please join the [Maker community Discord server](https://discord.gg/xztPSuEP); the Spark team and members of the community look forward to helping you understand and use Spark.
 
 ### Why Spark?
 
@@ -25,7 +25,7 @@ Your funds are allocated in a smart contract. The code of the smart contract is 
 ### Address Screening
 
 **Why is my wallet blocked?**
-We receive blockchain intelligence provided by [TRM Labs](https://www.trmlabs.com/). **** TRM combines on-chain data and real-world investigations to identify financial crime and other prohibited activities. This data blocks wallets from app.sparkprotocol.io that are associated with certain legally prohibited conduct.If you believe your address has been incorrectly flagged, please contact [contact@marsfoundation.xyz](mailto:contact@marsfoundation.xyz).
+We receive blockchain intelligence provided by [TRM Labs](https://www.trmlabs.com/). TRM combines on-chain data and real-world investigations to identify financial crime and other prohibited activities. This data blocks wallets from app.sparkprotocol.io that are associated with certain legally prohibited conduct.If you believe your address has been incorrectly flagged, please contact [contact@marsfoundation.xyz](mailto:contact@marsfoundation.xyz).
 
 **What information is shared with TRM Labs?**
 Your address is shared with TRM, but no metadata is tracked or shared. The request from the UI is routed to the Spark hosted API, which is used as a proxy endpoint, and the address is passed directly through to the TRM service. Users' IP addresses are not shared with TRM.
