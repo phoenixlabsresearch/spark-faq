@@ -2,7 +2,7 @@
 
 ### Isolation Mode
 
-Isolation mode allows Maker Governance to list new assets as isolated assets, which have a specific debt ceiling. Only certain assets can be borrowed in isolation mode—specifically, approved stablecoins. In order for an asset to become approved for borrowing, assets are voted on by AAVE token holders through the Maker Governance Forum. 
+Isolation mode allows Maker Governance to list new assets as isolated assets, which have a specific debt ceiling. Only certain assets can be borrowed in isolation mode—specifically, approved stablecoins. In order for an asset to become approved for borrowing, assets are voted on by MKR token holders through the Maker Governance. 
 
 The debt ceiling for an isolated asset is represented as the maximum amount in USD that can be borrowed against the user’s collateral with two decimals of precision.
 

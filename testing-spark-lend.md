@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You are able to test the Aave Protocol without spending cryptoassets on the Ethereum Goerli testnet. To get started, head to the Aave testnet client which is available at [app.sparkprotocol.io]https://app.sparkprotocol.io/) and simply enable the testnet switch in settings section of the app, top right corner. Make sure to switch your wallet provider to the appropriate testnet network in order to use the protocol testnet without incurring costs on the mainnet network.
+You are able to test the Spark Protocol without spending cryptoassets on the Ethereum Goerli testnet. To get started, head to the Spark testnet client which is available at [app.sparkprotocol.io]https://app.sparkprotocol.io/) and simply enable the testnet switch in settings section of the app, top right corner. Make sure to switch your wallet provider to the appropriate testnet network in order to use the protocol testnet without incurring costs on the mainnet network.
 
 Testnet networks are different environments from mainnet and simulate real use cases for development, testing or production. The assets on a testnet are not “real,” meaning that they cannot be withdrawn to your wallet for any real economic value.  
 
