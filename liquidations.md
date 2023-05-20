@@ -2,12 +2,12 @@
 
 ## Introduction
 
-A liquidation is a process that occurs when a borrower's health factor goes below 1 due to their collateral value not properly covering their loan/debt value. This might happen when the collateral decreases in value or the borrowed debt increases in value against each other. This collateral vs loan value ratio is shown in the [health factor](https://docs.sparkprotocol.io/risk/asset-risk/risk-parameters#health-factor).\
+A liquidation is a process that occurs when a borrower's health factor goes below 1 due to their collateral value not properly covering their loan/debt value. This might happen when the collateral decreases in value or the borrowed debt increases in value against each other.
 In a liquidation, up to 50% of a borrower's debt is repaid and that value + liquidation fee is taken from the collateral available, so after a liquidation that amount liquidated from your debt is repaid.
 
 ## How much is the liquidation penalty?
 
-The liquidation penalty (or bonus for liquidators) depends on the asset used as collateral. You can find every assets' liquidation fee in the [risk parameters section](https://docs.sparkprotocol.io/risk/asset-risk/risk-parameters).
+The liquidation penalty (or bonus for liquidators) depends on the asset used as collateral.
 
 ## Can you give me an example?
 
@@ -35,13 +35,13 @@ A liquidator can repay up to 50% of a single borrowed amount = 2.5 ETH worth of 
 \
 In return, the liquidator can claim a single collateral, as the liquidation bonus is higher for YFI (15%) than ETH (5%) the liquidator chooses to claim YFI. 
 \
-The liquidator claims 2.5 + 0.375 ETH worth of YFI for repaying 2.5 ETH worth of DAI.sparkprotocol.io
+The liquidator claims 2.5 + 0.375 ETH worth of YFI for repaying 2.5 ETH worth of DAI.
 
 ## How can I avoid getting liquidated?
 
 To avoid liquidation you can raise your health factor by depositing more collateral assets or repaying part of your loan. By default, repayments increase your health factor more than deposits. Also, it's important to monitor your health factor and keep it high to avoid a liquidation. Keeping your health factor over 2, for example, gives you more of a margin to avoid a liquidation.
 
-You should be mindful of the stablecoin price fluctuations due to market conditions and how it might affect your healthfactor. For example, the market price of USDC 1.00 might not equal exactly USD 1.00, but for example USD 0.95. The price fluctuations of stablecoins, like any assets, affects your healthfactor. You can find more details of price oracles in the [price discovery section](https://docs.sparkprotocol.io/risk/asset-risk/price-discovery).
+You should be mindful of the stablecoin price fluctuations due to market conditions and how it might affect your healthfactor. For example, the market price of USDC 1.00 might not equal exactly USD 1.00, but for example USD 0.95. The price fluctuations of stablecoins, like any assets, affects your healthfactor.
 
 ## Can I participate in the liquidations ecosystem?
 

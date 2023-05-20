@@ -30,7 +30,7 @@ Your funds are allocated in a smart contract. The code of the smart contract is 
 
 ### Is there any risk?
 
-No platform can be considered entirely risk free. The risks related to the Spark platform are the smart contract risk (risk of a bug within the protocol code) and liquidation risk (risk on the collateral liquidation process). Every possible step has been taken to minimise the risk as much as possible-- the protocol code is public and open source and it has been audited. Additionally, you can find additional security related information in the [security and audits](https://docs.sparkprotocol.io/developers/security-and-audits) sections.
+No platform can be considered entirely risk free. The risks related to the Spark platform are the smart contract risk (risk of a bug within the protocol code) and liquidation risk (risk on the collateral liquidation process). Every possible step has been taken to minimise the risk as much as possible-- the protocol code is public and open source and it has been audited. Additionally, you can find additional security related information in the [security and audits](https://docs.sparkprotocol.io/developers/deployed-contracts/security-and-audits) sections.
 
 ### Mobile App
 

@@ -6,11 +6,11 @@ Selling your assets means closing your position on that particular asset. Hence,
 
 ## How do I borrow?
 
-Before borrowing you need to supply any asset to be used as collateral (check out the [Supplying & Earning FAQ](https://docs.sparkprotocol.io/faq/depositing-and-earning) section for more info). After this, simply head to the Borrow section and click on “Borrow” for the asset you want to borrow. Set the amount you need based on your available supplies that would be used as a collateral for the loan. Select either stable or variable rate and confirm your transaction. You can always change your rate afterwards as many times as you want.
+Before borrowing you need to supply any asset to be used as collateral. After this, simply head to the Borrow section and click on “Borrow” for the asset you want to borrow. Set the amount you need based on your available supplies that would be used as a collateral for the loan. Select either stable or variable rate and confirm your transaction. You can always change your rate afterwards as many times as you want.
 
 ## How much I can borrow?
 
-The maximum amount you can borrow depends on the value you have supplied and the available liquidity. For example, you can’t borrow an asset if there is not enough liquidity or if your health factor doesn’t allow you to. You can find every collateral available and its specific parameters for borrowing in the [risk parameters](https://docs.sparkprotocol.io/risk/asset-risk/risk-parameters) section.
+The maximum amount you can borrow depends on the value you have supplied and the available liquidity. For example, you can’t borrow an asset if there is not enough liquidity or if your health factor doesn’t allow you to.
 
 ## What asset do I need to repay?
 
@@ -30,8 +30,7 @@ The interest rate you pay for borrowing assets depends on the borrowing rate whi
 
 ## What is the health factor?
 
-The health factor is the numeric representation of the safety of your deposited assets against the borrowed assets and its underlying value. The higher the value is, the safer the state of your funds are against a liquidation scenario. If the health factor reaches 1, the liquidation of your deposits will be triggered. A Health Factor below 1 can get liquidated. For a HF=2, the collateral value vs borrow can reduce by 1 out of 2: 50%. The health factor depends on the liquidation threshold of your collateral against the value of your borrowed funds. You can find all of the collateral parameters in the [risk parameters](https://docs.sparkprotocol.io/risk/asset-risk/risk-parameters) section.
-If you would like to know more technical details about the health factor calculation, you can find those [here](https://docs.sparkprotocol.io/risk/asset-risk/risk-parameters#health-factor).
+The health factor is the numeric representation of the safety of your deposited assets against the borrowed assets and its underlying value. The higher the value is, the safer the state of your funds are against a liquidation scenario. If the health factor reaches 1, the liquidation of your deposits will be triggered. A Health Factor below 1 can get liquidated. For a HF=2, the collateral value vs borrow can reduce by 1 out of 2: 50%. The health factor depends on the liquidation threshold of your collateral against the value of your borrowed funds.
 
 ## What happens when my health factor is reduced?
 
@@ -50,5 +49,5 @@ In order to payback the loan you simply go to the Borrowings section of your das
 In order to avoid the reduction of your health factor leading to liquidation, you can repay the loan or deposit more assets in order to increase your health factor. Out of these two available options, repaying the loan would increase your health factor more.
 
 {% hint style="info" %}
-If you still have any questions or issues, feel free to reach the Spark team over the official [discord](https://discord.gg/xztPSuEP).
+If you still have any questions or issues, feel free to reach the Spark team over the official [discord](https://discord.gg/BvfMGCvfzJ).
 {% endhint %}
