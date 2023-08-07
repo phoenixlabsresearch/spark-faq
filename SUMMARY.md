@@ -12,6 +12,7 @@
 * [Governance](governance.md)
 * [Troubleshooting](troubleshooting.md)
 * [Frozen Markets and Reserves](frozen-markets-and-reserves.md)
+* [Address Screening & Geoblocking](address-screening-and-geoblocking.md)
 
 ## Additional Documentation
 
