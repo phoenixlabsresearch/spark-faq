@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction to Spark](README.md)
+* [Dai Savings Rate (DSR)](dai-savings-rate-dsr.md)
 * [Supplying & Earning](supplying-and-earning.md)
 * [Borrowing](borrowing.md)
 * [Spark Lend Features](spark-lend-features.md)
