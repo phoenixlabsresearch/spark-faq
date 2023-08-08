@@ -18,14 +18,14 @@ Other parameters and mechanisms that are dependent on the DSR, such as certain s
 
 
 
-**EDSR Upper Limit = 8%**
-
 | Tier | Utilization | Multiplier | Effective DSR |
 | ---- | ----------- | ---------- | ------------- |
 | 1    | 0% - 20%    | 3x         | 8%            |
-| 2    | 20% - 35%   | 1.75x      | 5.81%         |
-| 3    | 35% - 50%   | 1.3x       | 4.32%         |
-| 4    | >50%        | 1x         | 3.32%         |
+| 2    | 20% - 35%   | 1.75x      | 5.58%         |
+| 3    | 35% - 50%   | 1.3x       | 4.15%         |
+| 4    | >50%        | 1x         | 3.19%         |
+
+**EDSR Upper Limit = 8%**
 
 
 
